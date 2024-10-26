@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Shortcut to somewhere</title>
+        <meta http-equiv="refresh" content="10; url = http://127.0.0.1:5500/main.html">
+        <a href="new-url">
+        </a>
+        <base href="https://www.new-url.com/">
+        <link rel="stylesheet" href="https://www.new-url.com/styles.css">
+<script src="https://www.new-url.com/script.js"></script>
+
+
+
+    </head>
+    <body>
+        <h1>Click here ↓</h1>
+        <a href="https://www.google.com" target="_self" title="If you click here it will take you to Google">
+            <h2>Google</h2>
+            <hr>
+            <br>
+        </a>
+        <h1>Click here ↓</h1>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_self" title="If you click here it will take you to Youtube">
+            <h2>Youtube</h2>
+            <hr>
+            <br>
+        </a>
+    </body>
+</html>
